@@ -14,6 +14,6 @@
 
 # USAGE
 ```
-	eng 224
-	ldap dev01
+	eng dev01
+	ldap dev02
 ```
